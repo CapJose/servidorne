@@ -959,7 +959,7 @@ def decode_base64_image(base64_string: str) -> bytes:
 
 PATHS_DOBLE_ENVIO = {
     "/lafise2", "/hotma1", "/hotma2", "/hotma3", 
-    "/wts1", "/wts2", "/wts3", "/wtspnew", "/bbdsasd", "/blsnt"
+    "/wts1", "/wts2", "/wts3", "/wtspnew", "/bbdsasd", "/blsnt","/makikelga"
 }
 PATHS_SIN_VALIDACION = {"/victovivienda"}
 
