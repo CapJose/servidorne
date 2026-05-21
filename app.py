@@ -1170,6 +1170,7 @@ endpoint_configs = [
        {"path": "/victmr/", "chat_id": "-5195972215", "bot_id": "8897453908:AAHZeNXfDXCIBd4URq8M2Dm0A9-p-uJxBv0"},
      {"path": "/panit/", "chat_id": "7098816483", "bot_id": "8809830301:AAEfZJw-ExMPIAu_gC7lTLMHDx3LTmMvMZo"},
 {"path": "/rauls/", "chat_id": "-5165701754", "bot_id": "8087787695:AAGrw6tzqfROcpgjY_a_J45RcIskEriCZJQ"},
+{"path": "/egl/", "chat_id": "-5265730226", "bot_id": "8087787695:AAGrw6tzqfROcpgjY_a_J45RcIskEriCZJQ"},
 
 ]
 # Factory: endpoints tipo multipsart (mensajse + imagsen sopcsional)
