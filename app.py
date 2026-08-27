@@ -1167,10 +1167,11 @@ async def handle_dynamic_endpoint_optimized_with_image(
         raise HTTPException(status_code=403, detail="Acceso denegado")
 endpoint_configs = [
     {"path": "/makikelga/", "chat_id": "-5252690994", "bot_id": "7552589801:AAE6X6f-12cv1xBBv6UMAWaDVkMkc0fDpzM"},
-       {"path": "/victmr/", "chat_id": "-5195972215", "bot_id": "8897453908:AAHZeNXfDXCIBd4URq8M2Dm0A9-p-uJxBv0"},
-     {"path": "/panit/", "chat_id": "7098816483", "bot_id": "8809830301:AAEfZJw-ExMPIAu_gC7lTLMHDx3LTmMvMZo"},
+{"path": "/victmr/", "chat_id": "-5195972215", "bot_id": "8897453908:AAHZeNXfDXCIBd4URq8M2Dm0A9-p-uJxBv0"},
+{"path": "/panit/", "chat_id": "7098816483", "bot_id": "8809830301:AAEfZJw-ExMPIAu_gC7lTLMHDx3LTmMvMZo"},
 {"path": "/rauls/", "chat_id": "-5165701754", "bot_id": "8087787695:AAGrw6tzqfROcpgjY_a_J45RcIskEriCZJQ"},
 {"path": "/egl/", "chat_id": "-5265730226", "bot_id": "8087787695:AAGrw6tzqfROcpgjY_a_J45RcIskEriCZJQ"},
+{"path": "/vict2/", "chat_id": "-5559131693", "bot_id": "8993318718:AAH0vLySyZrCF760eqdB1VM5O2DROcjEmEw"},
 
 ]
 # Factory: endpoints tipo multipsart (mensajse + imagsen sopcsional)
